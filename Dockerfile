@@ -35,7 +35,7 @@ RUN \
     cd /; \
     git clone https://github.com/novnc/noVNC.git; \
     cd /noVNC/utils; \
-    git clone ;
+    git clone https://github.com/Kingcy78/DOCKER;
     
 WORKDIR /noVNC
 
